@@ -25,9 +25,9 @@ Prefabs:
 - maps generated with separate file json files  
   
   
-Procedural sound featured in collision death sounds as well as varying level music  
-Procedural Graphics include ________  
-Advanced Assets can be seen in animations such as running
+Procedural sound featured varying ambience of robot sounds
+Procedural Graphics include particle system on jumo
+Data-driven experience progression/advanced graphics include tile maps with json files for level design  
   
   
 ## take note ##  
