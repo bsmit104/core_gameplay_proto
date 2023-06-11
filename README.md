@@ -25,8 +25,8 @@ Prefabs:
 - maps generated with separate file json files  
   
   
-Procedural sound featured varying ambience of robot sounds
-Procedural Graphics include particle system on jumo
+Procedural sound featured varying ambience of robot sounds  
+Procedural Graphics include particle system on jump  
 Data-driven experience progression/advanced graphics include tile maps with json files for level design  
   
   
