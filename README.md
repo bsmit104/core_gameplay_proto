@@ -27,7 +27,7 @@ Prefabs:
   
 Procedural sound featured varying ambience of robot sounds  
 Procedural Graphics include particle system on jump  
-Data-driven experience progression/advanced graphics include tile maps with json files for level design  
+Data-driven experience progression/advanced assets include tile maps with json files for level design  
   
   
 ## take note ##  
