@@ -1,6 +1,28 @@
 # DOCTOR TIME #  
-This prototype is created by Brayden Smith in collaboration with Akash Basu, Aly Cerruti, and Aaron Lee  
-Music done by Connor Green  
+This prototype is created by Brayden Smith
+particle system by Akash Basu  
+music by Connor Green  
+  
+Audio: 
+- continuously looping  
+- sound fx on die
+  
+
+Visual:  
+- sprite sheets  
+- particle system  
+  
+
+Motion:  
+- player can move left, right, jump, and wall bounce  
+  
+  
+Progression:
+- 3 level progression
+  
+Prefabs:  
+- collision object group, also ground is an object  
+- maps generated with separate file json files  
   
   
 Procedural sound featured in collision death sounds as well as varying level music  
